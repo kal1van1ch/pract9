@@ -40,3 +40,6 @@
 
 ## Автор
 - kal1van1ch
+
+## Ссылка
+- [Practice 9](https://kal1van1ch.github.io/pract9/)
