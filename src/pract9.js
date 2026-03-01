@@ -206,8 +206,14 @@ function number5(){
             alert(`Ответ ${num1 * num2}`);
             break;
         case '/':
-            alert(`Ответ ${num1 / num2}`);
-            break;
+            if(num2 === 0){
+                alert('На ноль делить нельзя');
+                break;
+            }
+            else{
+                alert(`Ответ ${num1 / num2}`);
+                break;
+            }
     }
 }
 
